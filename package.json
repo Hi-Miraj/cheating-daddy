@@ -1,8 +1,8 @@
 {
-    "name": "cheating-daddy",
-    "productName": "cheating-daddy",
+    "name": "manangry.ai",
+    "productName": "manangry.ai",
     "version": "0.1.0",
-    "description": "cheating daddy",
+    "description": "manangry.ai",
     "main": "src/index.js",
     "scripts": {
         "start": "electron-forge start",
@@ -12,11 +12,11 @@
         "lint": "echo \"No linting configured\""
     },
     "keywords": [
-        "cheating daddy",
-        "cheating daddy ai",
-        "cheating daddy ai assistant",
-        "cheating daddy ai assistant for interviews",
-        "cheating daddy ai assistant for interviews"
+        "manangry.ai",
+        "manangry.ai",
+        "manangry.ai assistant",
+        "manangry.ai assistant for interviews",
+        "manangry.ai assistant for interviews"
     ],
     "author": {
         "name": "sohzm",

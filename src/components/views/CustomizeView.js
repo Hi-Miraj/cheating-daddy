@@ -377,6 +377,11 @@ export class CustomizeView extends LitElement {
                 name: 'Negotiation',
                 description: 'Guidance for business negotiations and deals',
             },
+            {
+                value: 'personal_assistant',
+                name: 'Personal Assistant',
+                description: 'Manangry AI assistant for general problem-solving and analysis',
+            },
         ];
     }
 
@@ -422,6 +427,7 @@ export class CustomizeView extends LitElement {
             meeting: 'Business Meeting',
             presentation: 'Presentation',
             negotiation: 'Negotiation',
+            personal_assistant: 'Personal Assistant',
         };
     }
 
